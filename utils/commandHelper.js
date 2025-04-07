@@ -49,7 +49,7 @@ const education = () =>
   `I completed my secondary education at <a href="https://www.lycee-polyvalent-cluses.fr/" target="_blank">Saint Jean Bosco</a>, a private high school in France, and obtained my engineering degree at <a href="https://www.polytech-reseau.org/" target="_blank">Polytech</a> in 2022.`;
 
 const skills = () => `
-  Some skills here
+   Expertise in full-stack software engineering with a strong focus on TypeScript, Node.js, Bun, React. Proficient in fine-tuning Large Language Models (LLMs) and integrating AI into applications. Experienced in DevOps, cloud services, API development (REST, GQL) and UX design. Committed to delivering high-quality, scalable, and secure software solutions.
   `;
 
 const contact = () => `
